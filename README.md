@@ -18,12 +18,17 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=7511D0&center=true&vCenter=true&width=485&height=134&lines=When+in+doubt+ask+for...;When+in+doubt%2C+flip+a+coin." alt="Typing SVG" /></a></div>
 
 
+<br/>
+<p align="left">
+  <a href="https://github.com/erickhansx/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=erickhansx&show_icons=true&&theme=midnight-purple&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=erickhansx&theme=midnight-purple&hide_border=true" />
+  </a>
+</p>
+<br>
 
 
 
-
-![Erick Hans GitHub stats](https://github-readme-stats.vercel.app/api?username=erickhansx&show_icons=true&theme=midnight-purple&width=49%)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erickhansx&theme=midnight-purple&width=49%)](https://git.io/streak-stats)<br>
 [![Erick's github activity graph](https://activity-graph.herokuapp.com/graph?username=erickhansx&bg_color=000000&color=7847c2&line=6e45bf&point=eadcdc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickhansx&theme=react&layout=compact&card_width=1000)](https://github.com/erickhansx/github-readme-stats)
 
