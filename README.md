@@ -13,7 +13,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<h1 align="center">Hi There! I'm @erickhanx</h1>
+<h1 align="center">Hi There! I'm @erickhansx</h1>
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=7511D0&center=true&vCenter=true&width=485&height=134&lines=When+in+doubt+ask+for...;When+in+doubt%2C+flip+a+coin." alt="Typing SVG" /></a></div>
 
