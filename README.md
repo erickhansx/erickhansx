@@ -33,7 +33,8 @@
 [![Erick's github activity graph](https://activity-graph.herokuapp.com/graph?username=erickhansx&bg_color=000000&color=7847c2&line=6e45bf&point=eadcdc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickhansx&theme=react&layout=compact&card_width=1000)](https://github.com/erickhansx/github-readme-stats)
 
-Here are some ideas to get you started:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8539ED&center=true&vCenter=true&width=800&height=80&lines=I+am+free+and+ready+to+start+whenever+you+need+me.)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on becoming a Full-stack Developer @Microverse
 - 👯 I’m looking to collaborate on any <em>interesting project.</em>
