@@ -40,4 +40,5 @@
 - 👯 I’m looking to collaborate on any <em>interesting project.</em>
 - 💬 Ask me about anything!
 - 📫 How to reach me: erickhansx@gmail.com
+- ⚒️ Checkout my portfolio: https://erickhansx.github.io/white-portfolio/
 - ⚡ Fun fact: Sometimes I make decisions based on the outcome of flipping a coin.
