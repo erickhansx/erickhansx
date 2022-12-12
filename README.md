@@ -30,7 +30,7 @@
 
 
 
-[![Erick's github activity graph](https://activity-graph.herokuapp.com/graph?username=erickhansx&bg_color=000000&color=7847c2&line=6e45bf&point=eadcdc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickhansx&theme=react&layout=compact&card_width=1000)](https://github.com/erickhansx/github-readme-stats)
 
 
