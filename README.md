@@ -38,9 +38,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8539ED&center=true&vCenter=true&width=800&height=80&lines=I+am+free+and+ready+to+start+whenever+you+need+me.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on becoming a Full-stack Developer @Microverse
 - 👯 I’m looking to collaborate on any <em>interesting project.</em>
 - 💬 Ask me about anything!
 - 📫 How to reach me: erickhansx@gmail.com
-- ⚒️ Checkout my portfolio: https://erickhansx.github.io/white-portfolio/
+- ⚒️ Checkout my portfolio: https://erickhans.me
 - ⚡ Fun fact: Sometimes I make decisions based on the outcome of flipping a coin.
