@@ -9,7 +9,7 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
-    steps:   
+    steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -19,3 +19,6 @@ jobs:
           TIME_RANGE: all_time
           LANG_COUNT: 5
           SHOW_TIME: true
+          COMMIT_MESSAGE: "Coding Activity Update :alien:"
+          COMMITTER_NAME: ${{ secrets.COMMITTER_NAME }}
+          COMMITTER_EMAIL: ${{ secrets.COMMITTER_EMAIL }}
