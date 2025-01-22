@@ -28,7 +28,20 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=erickhansx&theme=midnight-purple&hide_border=true" />
   </a>
 </p>
-<br>
+<be>
+
+###
+<div align="center">
+<!--START_SECTION:waka-->
+
+```txt
+```
+
+<!--END_SECTION:waka-->
+</div>
+
+###
+
 
 
 
